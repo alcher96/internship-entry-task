@@ -23,7 +23,6 @@ namespace TicTacToe.API
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.ConfigureServices(builder.Configuration);
             builder.Services.AddControllers();
-// Добавление Swagger
             builder.Services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new() { Title = "Tic-Tac-Toe API", Version = "v1" });
@@ -31,7 +30,7 @@ namespace TicTacToe.API
             
             builder.Services.AddOpenApi();
             
-            // Регистрация Marvin.Cache.Headers
+            //  Marvin.Cache.Headers для eTag
             builder.Services.AddHttpCacheHeaders(
                 expirationModelOptions =>
                 {
