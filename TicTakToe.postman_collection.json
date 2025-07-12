@@ -1,0 +1,94 @@
+{
+	"info": {
+		"_postman_id": "4fb1bdd2-990a-4397-b58f-6e6d2f199d5c",
+		"name": "TicTakToe",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37446292"
+	},
+	"item": [
+		{
+			"name": "Health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/health",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"health"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add game",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/games",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"games"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GameById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/games/ef55aae7-5d8d-4fd9-bd23-8c588746651",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"games",
+						"ef55aae7-5d8d-4fd9-bd23-8c588746651"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Make a move",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"player\": \"O\",\r\n  \"position\": {\r\n    \"row\": 2,\r\n    \"column\": 0\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/games/0aa5e3dd-5989-4e2c-aebf-38ce84821626/moves",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"games",
+						"0aa5e3dd-5989-4e2c-aebf-38ce84821626",
+						"moves"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
