@@ -1,0 +1,15 @@
+﻿services:
+  tictaktoe.api:
+    image: tictaktoe.api
+    build:
+      context: .
+      dockerfile: TicTacToe.API/Dockerfile     
+    environment:
+      - BOARD_SIZE=3
+      - CONNECTION_STRING=Data Source=/app/data/game.db
+    volumes:
+        - db-data:/app/data
+    ports:
+      - "8080:8080"
+volumes:
+  db-data:

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l5uAWMue9fQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alche\\RiderProjects\\TicTacToe\\TicTacToe.Application\\TicTacToe.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alche\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

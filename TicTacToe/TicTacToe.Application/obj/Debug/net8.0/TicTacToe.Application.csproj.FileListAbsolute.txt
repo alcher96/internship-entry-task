@@ -1,0 +1,15 @@
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\bin\Debug\net8.0\TicTacToe.Application.deps.json
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\bin\Debug\net8.0\TicTacToe.Application.dll
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\bin\Debug\net8.0\TicTacToe.Application.pdb
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\bin\Debug\net8.0\TicTacToe.Domain.dll
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\bin\Debug\net8.0\TicTacToe.Domain.pdb
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\TicTacToe.Application.csproj.AssemblyReference.cache
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\TicTacToe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\TicTacToe.Application.AssemblyInfoInputs.cache
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\TicTacToe.Application.AssemblyInfo.cs
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\TicTacToe.Application.csproj.CoreCompileInputs.cache
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\TicTacTo.E36E7A44.Up2Date
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\TicTacToe.Application.dll
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\refint\TicTacToe.Application.dll
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\TicTacToe.Application.pdb
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Application\obj\Debug\net8.0\ref\TicTacToe.Application.dll

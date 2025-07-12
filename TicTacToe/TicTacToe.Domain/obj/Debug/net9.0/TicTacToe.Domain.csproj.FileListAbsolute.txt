@@ -1,0 +1,11 @@
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\bin\Debug\net9.0\TicTacToe.Domain.deps.json
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\bin\Debug\net9.0\TicTacToe.Domain.dll
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\bin\Debug\net9.0\TicTacToe.Domain.pdb
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\obj\Debug\net9.0\TicTacToe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\obj\Debug\net9.0\TicTacToe.Domain.AssemblyInfoInputs.cache
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\obj\Debug\net9.0\TicTacToe.Domain.AssemblyInfo.cs
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\obj\Debug\net9.0\TicTacToe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\obj\Debug\net9.0\TicTacToe.Domain.dll
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\obj\Debug\net9.0\refint\TicTacToe.Domain.dll
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\obj\Debug\net9.0\TicTacToe.Domain.pdb
+C:\Users\alche\RiderProjects\TicTakToe\TicTacToe.Domain\obj\Debug\net9.0\ref\TicTacToe.Domain.dll
